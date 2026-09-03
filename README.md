@@ -1,5 +1,7 @@
 # Jjan!
 
+<p align="center"><img src="demo.webp" width="320" alt="Jjan! - a glass that fills with your Claude usage"></p>
+
 A macOS menu bar widget that shows your Claude usage as a filling beer glass.
 
 <!-- TODO: 여기에 GIF 또는 스크린샷을 넣는다.
